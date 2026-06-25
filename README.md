@@ -48,9 +48,13 @@ This project performs Sentiment Analysis on the IMDB Movie Reviews Dataset using
 
 ## Dataset
 
-IMDB Movie Reviews Dataset (50,000 Reviews)
+The project uses the IMDB Movie Reviews Dataset (50,000 reviews).
+
+Download it from Kaggle:
 
 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+After downloading, place **IMDB Dataset.csv** in the project folder before running the notebook.
 
 ## Author
 
